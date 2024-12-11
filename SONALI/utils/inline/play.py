@@ -79,7 +79,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="✰ 𝛅 ⋏ ι 𝚳 ✰", url="https://t.me/DADDY_SAIM",
             ),
             InlineKeyboardButton(
-                text="✰ ❍꯭ᴡ꯭፝֠֩᷍η꯭𝛆ʀ꯭ ✰", url="https://t.me/SAIM_WORLD",
+                text="🏡ᴍʏ ʜᴜʙʙʏ🏡", url="https://t.me/SAIM_WORLD",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -102,7 +102,7 @@ def stream_markup(_, videoid, chat_id):
                 text="✰ 𝛅 ⋏ ι 𝚳 ✰", url="https://t.me/DADDY_SAIM",
             ),
             InlineKeyboardButton(
-                text="✰ ❍꯭ᴡ꯭፝֠֩᷍η꯭𝛆ʀ꯭ ✰", url="https://t.me/SAIM_WORLD",
+                text="🏡ᴍʏ ʜᴜʙʙʏ🏡", url="https://t.me/SAIM_WORLD",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
